@@ -1,8 +1,6 @@
 # Educational Discord Bot
 
-Petit bot Discord écrit en Python avec `discord.py`. Le projet montre une
-structure simple mais professionnelle : point d'entrée unique, gestion des
-commandes, événements Discord, logs, gestion d'erreurs et limitation de débit.
+Petit bot Discord écrit en Python avec `discord.py`. 
 
 ## Objectif du projet
 
@@ -24,9 +22,6 @@ Crée un fichier `.env` à la racine du projet :
 ```dotenv
 DISCORD_TOKEN=ton_token_discord
 ```
-
-Cette approche est utilisée même pour cette démo éducative afin de montrer une
-pratique professionnelle et d'éviter les fuites accidentelles de secrets.
 
 ## Fonctionnalités
 
